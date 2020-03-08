@@ -1,0 +1,10 @@
+C:\Users\my comp1\source\repos\Lab1\FileService\bin\Debug\FileService.dll
+C:\Users\my comp1\source\repos\Lab1\FileService\bin\Debug\FileService.pdb
+C:\Users\my comp1\source\repos\Lab1\FileService\obj\Debug\FileService.csprojAssemblyReference.cache
+C:\Users\my comp1\source\repos\Lab1\FileService\obj\Debug\FileService.dll
+C:\Users\my comp1\source\repos\Lab1\FileService\obj\Debug\FileService.pdb
+E:\source\repos\SDA\Lab_1\FileService\bin\Debug\FileService.dll
+E:\source\repos\SDA\Lab_1\FileService\bin\Debug\FileService.pdb
+E:\source\repos\SDA\Lab_1\FileService\obj\Debug\FileService.csprojAssemblyReference.cache
+E:\source\repos\SDA\Lab_1\FileService\obj\Debug\FileService.dll
+E:\source\repos\SDA\Lab_1\FileService\obj\Debug\FileService.pdb

@@ -1,0 +1,16 @@
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\bin\Debug\ConsoleIO.dll
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\bin\Debug\ConsoleIO.pdb
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\bin\Debug\FileService.dll
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\bin\Debug\FileService.pdb
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\obj\Debug\IO.csproj.CopyComplete
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\obj\Debug\ConsoleIO.dll
+C:\Users\my comp1\source\repos\Lab1\ConsoleIO\obj\Debug\ConsoleIO.pdb
+E:\source\repos\SDA\Lab_1\ConsoleIO\bin\Debug\ConsoleIO.dll
+E:\source\repos\SDA\Lab_1\ConsoleIO\bin\Debug\ConsoleIO.pdb
+E:\source\repos\SDA\Lab_1\ConsoleIO\bin\Debug\FileService.dll
+E:\source\repos\SDA\Lab_1\ConsoleIO\bin\Debug\FileService.pdb
+E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\IO.csprojAssemblyReference.cache
+E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\IO.csproj.CopyComplete
+E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\ConsoleIO.dll
+E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\ConsoleIO.pdb
