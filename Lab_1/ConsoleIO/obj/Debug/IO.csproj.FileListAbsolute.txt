@@ -14,3 +14,11 @@ E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\IO.csprojAssemblyReference.cache
 E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\IO.csproj.CopyComplete
 E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\ConsoleIO.dll
 E:\source\repos\SDA\Lab_1\ConsoleIO\obj\Debug\ConsoleIO.pdb
+E:\source\SDA\Lab_1\ConsoleIO\bin\Debug\ConsoleIO.dll
+E:\source\SDA\Lab_1\ConsoleIO\bin\Debug\ConsoleIO.pdb
+E:\source\SDA\Lab_1\ConsoleIO\bin\Debug\FileService.dll
+E:\source\SDA\Lab_1\ConsoleIO\bin\Debug\FileService.pdb
+E:\source\SDA\Lab_1\ConsoleIO\obj\Debug\IO.csprojAssemblyReference.cache
+E:\source\SDA\Lab_1\ConsoleIO\obj\Debug\IO.csproj.CopyComplete
+E:\source\SDA\Lab_1\ConsoleIO\obj\Debug\ConsoleIO.dll
+E:\source\SDA\Lab_1\ConsoleIO\obj\Debug\ConsoleIO.pdb
