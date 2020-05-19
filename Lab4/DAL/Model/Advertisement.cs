@@ -13,7 +13,8 @@ namespace DAL.Model
         public Category Category { get; set; }
         [Required]
         public virtual User User { get; set; }
-        public virtual ICollection<Tag> Tags { get; set; }
+        public ICollection<string> Tags { get; set; }
+        // public virtual ICollection<Tag> Tags { get; set; }
         public Subcategory Subcategory { get; set; }
     }
 }

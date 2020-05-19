@@ -8,6 +8,10 @@ namespace DAL
         public readonly static BoardContext Instance = new BoardContext();
         private BoardContext() : base("BoardDb")
         {
+            //Rubric rubric = new Rubric { RubricName = "Building+" };
+            //Rubrics.Add(rubric);
+            //Categories.Add(new Category { CategoryName = "Rooms+", Rubric = rubric });
+            //SaveChanges();
             Database.SetInitializer(new DropCreateDatabaseIfModelChanges<BoardContext>());
         }
 

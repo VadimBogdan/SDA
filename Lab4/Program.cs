@@ -1,4 +1,4 @@
-﻿using MessageLooper;
+﻿using UI;
 
 namespace ConsoleApp1
 {
@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            ConsoleLooper.GetInstance().Loop();
+            UserInterface.GetInstance().Attach();
             //using (var ctx = new BoardContext())
             //{
             //    var rubric = new Rubric() { RubricName = "Building" };
