@@ -38,14 +38,20 @@ namespace DAL.UnitOfWork
 
         // методи
 
-        public TRepositoryInterface GetRepository<TRepositoryInterface>()
+        public virtual TRepositoryInterface GetRepository<TRepositoryInterface>()
         {
             Type key = typeof(TRepositoryInterface);
 
             return (TRepositoryInterface)repositories.GetOrAdd(key, repositoriesFactory[key].Invoke());
         }
 
-        public int Save()
+        public virtual IRepository<TEntity> GetGenericRepository<TRepositoryInterface, TEntity>() where TEntity : class
+        {
+            Type key = typeof(TRepositoryInterface);
+            return repositories.GetOrAdd(key, repositoriesFactory[key].Invoke()) as IRepository<TEntity>;
+        }
+
+        public virtual int Save()
         {
             return dataBaseContext.SaveChanges();
         }

@@ -54,7 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BoardAppBLL.cs" />
+    <Compile Include="BoardService.cs" />
     <Compile Include="DALMapper.cs" />
     <Compile Include="DTO\Advertisement.cs" />
     <Compile Include="DTO\Category.cs" />
@@ -62,6 +62,7 @@
     <Compile Include="DTO\Subcategory.cs" />
     <Compile Include="DTO\Tag.cs" />
     <Compile Include="DTO\User.cs" />
+    <Compile Include="IBoardService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,4 +1,7 @@
-﻿using UI;
+﻿using BindingsDI;
+using Ninject;
+using System.Reflection;
+using UI;
 
 namespace ConsoleApp1
 {
@@ -6,14 +9,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            UserInterface.GetInstance().Attach();
-            //using (var ctx = new BoardContext())
-            //{
-            //    var rubric = new Rubric() { RubricName = "Building" };
-
-            //    ctx.Rubrics.Add(rubric);
-            //    ctx.SaveChanges();
-            //}
+            var kernel = new StandardKernel();
+            kernel.Load(new Assembly[] { typeof(Bindings).Assembly });
+            var userInterface = kernel.Get<IConsoleUI>();
+            userInterface.Attach();
         }
     }
 }

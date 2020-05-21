@@ -5,8 +5,7 @@ namespace DAL
 {
     public class BoardContext : DbContext
     {
-        public readonly static BoardContext Instance = new BoardContext();
-        private BoardContext() : base("BoardDb")
+        public BoardContext() : base("BoardDb")
         {
             //Rubric rubric = new Rubric { RubricName = "Building+" };
             //Rubrics.Add(rubric);
